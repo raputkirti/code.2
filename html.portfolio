@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="Styles_1.css">
+    <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel="stylesheet">
+    <title>Portfoli Wbsite</title>
+</head>
+
+<body>
+    <nav>
+        <div class="nave__conte">
+            <div class="logo"><a href="#"></a></div>
+            <label for="check" class="checkbox">
+
+            </label>
+            <input type="checkbox" name="check" id="check">
+            <ul>
+                <li><a href="#">Skills</a></li>
+                <li><a href="#">Open Source</a></li>
+                <li><a href="#">Projects</a></li>
+                <li><a href="#">Achievements</a></li>
+                <li><a href="#">Blogs</a></li>
+                <li><a href="#">Talks</a></li>
+                <li><a href="#">Contact Me</a></li>
+            </ul>
+        </div>
+    </nav>
+    <div class="section__container">
+        <div class="content">
+            <p class="subtitle">HELLO</p>
+            <h1 class="title">
+                Hi all i'm <span>Divya<br>a</span> Web Developer
+            </h1>
+            <p class="description">
+                Logical and organised individual with a strong foundation in Web Developer.
+                proficient in HTML, CSS, C (Programming) and JAVA.
+                Ability to translate business requirements into innovative software solutions.
+                Excellent teamwork interpersonal and communication Skills.
+                Looking to start a career as an entry-leve professional with a reputed IT company.
+            </p>
+            <div class="home-sci">
+                <a href="https://www.facebook.com/"><i class='bx bxl-facebook'></i></a>
+                <a href="https://www.instagram.com/"><i class='bx bxl-instagram'></i></a>
+                <a href="www.linkedin.com/in/divya-mishra-b24a8227b/"><i class='bx bxl-linkedin'></i>
+            </div>
+            <div class="action__btns">
+                <button class="contact__me">CONTACT ME</button>
+                <button class="see__myresume">SEE MY RESUME</button>
+            </div>
+        </div>
+        <div class="image">
+            <img src="Home.png" alt="profile">
+        </div>
+    </div>
+</body>
